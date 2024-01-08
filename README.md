@@ -1,2 +1,2 @@
 # JavaScriptHW3
- JAvaScirt Promise Homework
+ JAvaScirt Promise Homework- from Attila Szegedi
